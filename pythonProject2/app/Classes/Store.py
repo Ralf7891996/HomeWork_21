@@ -1,4 +1,4 @@
-from app.Classes.BaseClass import BaseClass
+from pythonProject2.app.Classes.BaseClass import BaseClass
 
 
 class Store(BaseClass):

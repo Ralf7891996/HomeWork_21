@@ -1,5 +1,5 @@
-from app.Classes.BaseClass import BaseClass
-from app.Exception import NotEnoughSpace, NotEnoughСapacity
+from pythonProject2.app.Classes.BaseClass import BaseClass
+from pythonProject2.app.Exception import NotEnoughСapacity, NotEnoughSpace
 
 
 class Shop(BaseClass):

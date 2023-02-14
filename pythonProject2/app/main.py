@@ -1,7 +1,7 @@
-from app.Classes.Request import Request
-from app.Classes.Shop import Shop
-from app.Classes.Store import Store
-from app.Exception import NotEnoughProduct, NotName, NotEnoughСapacity, NotEnoughSpace
+from pythonProject2.app.Classes.Request import Request
+from pythonProject2.app.Classes.Shop import Shop
+from pythonProject2.app.Classes.Store import Store
+from pythonProject2.app.Exception import NotName, NotEnoughProduct, NotEnoughСapacity, NotEnoughSpace
 
 shop = Shop(items={})
 shop.items = {"печеньки": 1, "торты": 2, "кексы": 1, "булочки": 1, "пироженные": 1}

@@ -1,5 +1,5 @@
-from app.Classes.Storage import Storage
-from app.Exception import NotEnoughProduct, NotName, NotEnoughСapacity
+from pythonProject2.app.Classes.Storage import Storage
+from pythonProject2.app.Exception import NotEnoughСapacity, NotName, NotEnoughProduct
 
 
 class BaseClass(Storage):
